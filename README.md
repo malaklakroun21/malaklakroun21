@@ -3,9 +3,17 @@
 
 <h3 align="center"> Calm, efficient, and unapologetically committed to excellence. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malaklakroun21&label=Profile%20views&color=0e75b6&style=flat" alt="malaklakroun21" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=malaklakroun21&label=Profile%20views&color=0e75b6&style=flat" alt="malaklakroun21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malaklakroun21" alt="malaklakroun21" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malaklakroun21" alt="malaklakroun21" /></a> </p>
+
+<!-- GitHub Stats and Streak side by side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malaklakroun21&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malaklakroun21&" alt="GitHub Streak" width="400" />
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -95,7 +103,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malaklakroun21&show_icons=true&locale=en&layout=compact" alt="malaklakroun21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malaklakroun21&show_icons=true&locale=en" alt="malaklakroun21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malaklakroun21&" alt="malaklakroun21" /></p>
 
