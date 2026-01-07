@@ -1,5 +1,6 @@
 <h1 align="center">Malak Lakroun — Crafting Digital Experiences</h1>
-<h3 align="center">Computer Science student and Full-Stack Developer focused on building clean, reliable, and high-impact systems. Work is driven by discipline, precision, and a results-first mindset. Tools may change — standards don’t.</h3>
+<h3 align="center">Computer Science student and Full-Stack Developer focused on building clean, reliable, and high-impact systems. </h3>
+<h3 Work is driven by discipline, precision, and a results-first mindset. </h3>
 
 <h3 align="center"> Calm, efficient, and unapologetically committed to excellence. </h3>
 
